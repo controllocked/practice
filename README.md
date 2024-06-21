@@ -1,3 +1,3 @@
 # practice
 
-i am practicing merge conflict solving
+this file was modified due to conflicts
